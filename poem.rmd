@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+"I watch the drowsy night expire,  
+And Fancy paints at my desire,  
+Her magic pictures in the fire.  
+An island-farm 'mid seas of corn,  
+Swayed by the wandering breath of morn,
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
